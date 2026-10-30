@@ -1,0 +1,11 @@
+# Private keys
+*.pem
+*.key
+
+# Zipped uploads
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
