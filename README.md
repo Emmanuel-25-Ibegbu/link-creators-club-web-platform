@@ -124,7 +124,17 @@ This is a single-server build. For a larger production load I would:
 ```
 
 ---
+## Skills Demonstrated
 
+- AWS networking: VPC, subnets, route tables, Internet Gateway
+- EC2 provisioning and Linux server administration
+- Security group design and port control
+- TLS setup and automated certificate renewal
+- Web server hardening
+- DNS configuration
+- Network traffic logging with VPC Flow Logs
+- Vulnerability scanning and remediation
+---
 ## Author
 
 Emmanuel Ibegbu
